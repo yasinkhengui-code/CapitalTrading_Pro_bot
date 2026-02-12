@@ -477,3 +477,5 @@ process.on('SIGINT', () => {
     saveDB(db);
     process.exit(0);
 });
+npm install
+node capital-edge-quantum.js
